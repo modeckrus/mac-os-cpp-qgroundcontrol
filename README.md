@@ -1,1 +1,0 @@
-# mac-os-cpp-qgroundcontrol
